@@ -1,0 +1,30 @@
+h1 {
+	color: navyblue;
+	text-align: center;
+	font-family: "Inconsolata", serif;
+	font-size: 60px;
+}
+
+.topnav {
+   background-color: #0a51c4
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #DDDDDD;
+   color: #5c5c5c;
+}
+
+.topnav a.active {
+   background-color: #0a51c4;
+   color: white;
+}
