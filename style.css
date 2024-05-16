@@ -6,7 +6,7 @@ h1 {
 }
 
 .topnav {
-   background-color: #0a51c4
+   background-color: #17182e;
    overflow: hidden;
 }
 
@@ -27,4 +27,8 @@ h1 {
 .topnav a.active {
    background-color: #0a51c4;
    color: white;
+}
+
+body {
+   background-color: #ffffff;
 }
